@@ -12,13 +12,9 @@ The second exercise focused on My Locked PDF2.pdf using the NetworkWalks Hash Ca
 
 The exercises provided practical experience with password hashes, wordlist-based password cracking, and the importance of using strong passwords to protect sensitive files.
 
-⸻
-
 ### 🛡️ Liability Disclaimer
 
 I carried out these activities only on files provided for cybersecurity training purposes as part of my NetworkWalks internship. These exercises are intended for educational purposes only. Password-cracking techniques should only be used on files, systems, or accounts that you own or have explicit permission to test.
-
-⸻
 
 ### 🔧 Tools Used
 | Tool | Purpose |
@@ -28,7 +24,6 @@ I carried out these activities only on files provided for cybersecurity training
 | pdf2john | Extracts a crackable hash from the password-protected PDF |
 | Networkwalks Hash Calculator | Web tool used to extract the PDF hash without any installation |
 | Networkwalks Password Cracker | Web tool used to run a dictionary attack against the extracted hash |
-⸻
 
 ### 🎯 Activities Performed
 
@@ -71,8 +66,6 @@ The recovered password was entered into `My Locked PDF1.pdf` to confirm that it 
 
 ![Locked pdf1 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Locked%20pdf1%20result.png?)
 
-⸻
-
 ### 4.2 Password Cracking with NetworkWalks Tools (W3-PM2)
 
 Target
@@ -95,7 +88,7 @@ The password cracker successfully recovered the password.
 
 Recovered password: `password1`
 
-## Step 4 — Verify the Password
+# Step 4 — Verify the Password
 
 The recovered password was used to unlock `My Locked PDF2.pdf` and confirm that it worked successfully.
 
@@ -106,8 +99,6 @@ The recovered password was used to unlock `My Locked PDF2.pdf` and confirm that 
 
 ![my locked pdf2 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/My%20locked%20pdf2.png?)
 
-⸻
-
 ### 🔍 Risk Analysis and Impact
 | Finding | Evidence | Potential Impact |
 |---|---|---|
@@ -117,8 +108,6 @@ The recovered password was used to unlock `My Locked PDF2.pdf` and confirm that 
 
 These findings are based on controlled cybersecurity training exercises and do not represent an assessment of a real-world system.
 
-⸻
-
 ### 💡 Recommendations
 
 * Use long and unique passwords for protecting sensitive files.
@@ -127,11 +116,9 @@ These findings are based on controlled cybersecurity training exercises and do n
 * Avoid reusing passwords across different files and accounts.
 * Consider using a password manager to generate and store strong passwords.
 * Use additional security controls where available, such as encryption and multi-factor authentication.
-* Only perform password-cracking activities on files or systems where proper authorization has been given.
+* Only perform password-cracking activities on files or systems where proper authorization has been given
 
-⸻
-
-###🎓 Conclusion
+### 🎓 Conclusion
 
 During Week 3 of my Cybersecurity internship at NetworkWalks, I completed two practical password-cracking exercises.
 
