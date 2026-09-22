@@ -104,9 +104,11 @@ The recovered password was used to unlock `My Locked PDF2.pdf` and confirm that 
 
 ![password-cracker2 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Passwork-cracker%202.png?)
 
+![my locked pdf2 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/My%20locked%20pdf2.png?)
+
 ⸻
 
-###🔍 Risk Analysis and Impact
+### 🔍 Risk Analysis and Impact
 | Finding | Evidence | Potential Impact |
 |---|---|---|
 | Weak password protection | The password good-luck was recovered from the first protected PDF using JTR | 	Weak passwords can be vulnerable to password-cracking techniques |
@@ -117,7 +119,7 @@ These findings are based on controlled cybersecurity training exercises and do n
 
 ⸻
 
-###💡 Recommendations
+### 💡 Recommendations
 
 * Use long and unique passwords for protecting sensitive files.
 * Avoid common words, phrases, and predictable password patterns.
@@ -141,8 +143,10 @@ These exercises helped me understand the practical process of extracting passwor
 
 ## 👤 Author
 
-Balogun Esther — Cybersecurity Intern B083
-GitHub: [github.com/CyberIsaiah](https://github.com/Cyber)
+Balogun Esther — Cybersecurity Intern B083F
+LinkedIn:
+https://www.linkedin.com/in/esther-balogun
+
 
 ## 📌 Project Information
 
