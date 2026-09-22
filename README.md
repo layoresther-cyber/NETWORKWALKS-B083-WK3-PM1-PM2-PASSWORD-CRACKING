@@ -102,7 +102,7 @@ The recovered password was used to unlock `My Locked PDF2.pdf` and confirm that 
 ## Results
 ![password-cracker1 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Password-cracker1.png?)
 
-![password-cracker2 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Password-cracker2.png?)
+![password-cracker2 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Passwork-cracker%202.png?)
 
 ⸻
 
