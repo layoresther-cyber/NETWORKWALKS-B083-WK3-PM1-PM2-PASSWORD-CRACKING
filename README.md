@@ -66,7 +66,10 @@ Recovered password: `good-luck`
 
 The recovered password was entered into `My Locked PDF1.pdf` to confirm that it successfully unlocked the file.
 
-![JTR-cracking result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/JTR-Cracking.png?raw)
+![JTR-cracking result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/JTR-Cracking.png?)
+
+![Locked pdf1 result](https://github.com/layoresther-cyber/NETWORKWALKS-B083-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/Locked%20pdf1%20result.png?)
+
 ⸻
 
 ### 4.2 Password Cracking with NetworkWalks Tools (W3-PM2)
